@@ -1,0 +1,14 @@
+{
+  "name": "helper-d21-bot",
+  "version": "1.0.0",
+  "main": "helper_d21_index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node helper_d21_index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "pg": "^8.8.0"
+  }
+}
